@@ -1,0 +1,6 @@
+Campaign ID,Start Date,End Date,Budget,Reach,Impressions,Clicks,Conversions
+'Cam1','2023-12-01','2023-12-01',100,'Reac-1','Impr-1','Clic-1','Conv-1'
+'Cam2','2023-12-02','2023-12-02',200,'Reac-2','Impr-2','Clic-2','Conv-2'
+'Cam3','2023-12-03','2023-12-03',300,'Reac-3','Impr-3','Clic-3','Conv-3'
+'Cam4','2023-12-04','2023-12-04',400,'Reac-4','Impr-4','Clic-4','Conv-4'
+'Cam5','2023-12-05','2023-12-05',500,'Reac-5','Impr-5','Clic-5','Conv-5'

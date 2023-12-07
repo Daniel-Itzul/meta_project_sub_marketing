@@ -1,0 +1,6 @@
+Customer ID,Campaign ID,Interaction Date,Channel,Engagement Score,Conversion Status
+'Cus1','Cam1','2023-12-01','Channel-1',1,'Not Converted'
+'Cus2','Cam2','2023-12-02','Channel-2',2,'Converted'
+'Cus3','Cam3','2023-12-03','Channel-3',3,'Not Converted'
+'Cus4','Cam4','2023-12-04','Channel-4',4,'Converted'
+'Cus5','Cam5','2023-12-05','Channel-5',5,'Not Converted'
